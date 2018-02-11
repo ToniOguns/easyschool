@@ -1,0 +1,8 @@
+{
+  "name": "easyschool",
+  "app_id": "e4ea9b48",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
